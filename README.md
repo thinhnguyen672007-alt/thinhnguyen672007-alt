@@ -1,6 +1,12 @@
 <div align="center">
 
 # Hi 👋, I'm Nguyen Thinh
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=I'm+a+Software+Engineer;A+Passionate+Developer;AI+Engineering+Student" alt="Typing SVG" />
+  </a>
+</h1>
 ### A Passionate Developer and AI Engineer
 
 [![Profile views](https://komarev.com/ghpvc/?username=thinhnguyen672007-alt&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/thinhnguyen672007-alt)
