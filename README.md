@@ -10,7 +10,7 @@
 </div>
 
 ### 👤 About Me
-- 🔭 I'm currently working on **projects with huge ambition**
+- 🚀 I'm currently working on **projects with huge ambition**
 - 🌱 I'm currently learning **Full-stack Web (HTML, CSS, JS, Node.js)**
 - 👯 I'm looking to collaborate on **Web and AI projects**
 - 🤝 I'm looking for help with **Learning web design, backend, and system thinking**
@@ -20,7 +20,7 @@
 
 ### 🛠 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,nodejs,express,mongodb,mysql,docker,git,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,nodejs,express,mongodb,mysql,docker,git,postman,vscode&theme=dark" />
 </p>
 
 ### 🔗 Connect with me:
@@ -35,9 +35,4 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thinhnguyen672007-alt&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=thinhnguyen672007-alt&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thinhnguyen672007-alt&theme=radical" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=thinhnguyen672007-alt&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="1
