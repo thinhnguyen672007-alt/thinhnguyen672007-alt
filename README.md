@@ -9,10 +9,6 @@
 </h1>
 ### A Passionate Developer and AI Engineer
 
-[![Profile views](https://komarev.com/ghpvc/?username=thinhnguyen672007-alt&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/thinhnguyen672007-alt)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=thinhnguyen672007-alt&theme=flat)
-
 </div>
 
 ### 👤 About Me
